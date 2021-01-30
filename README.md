@@ -8,9 +8,9 @@ Data: 23.05.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELXXXXXXXX
+Imię i nazwisko studenta: Piotr Jaworski
+Numer albumu: 72997 
+Grupa studencka: WEL18DE1E1
 
 # Odpowiedzi do pytań z instrukcji
 ...
